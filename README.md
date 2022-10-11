@@ -1,6 +1,6 @@
 # My Teacher
 
-![preview](./.github/preview.png)
+![preview](./.github/preview.jpg)
 
 > Trilha Iniciante
 
